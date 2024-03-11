@@ -1,0 +1,7 @@
+S:\work\DoPM\Practrical_task_2\bin\Debug\Practrical_task_2.exe.config
+S:\work\DoPM\Practrical_task_2\bin\Debug\Practrical_task_2.exe
+S:\work\DoPM\Practrical_task_2\bin\Debug\Practrical_task_2.pdb
+S:\work\DoPM\Practrical_task_2\obj\Debug\Practrical_task_2.csproj.AssemblyReference.cache
+S:\work\DoPM\Practrical_task_2\obj\Debug\Practrical_task_2.csproj.CoreCompileInputs.cache
+S:\work\DoPM\Practrical_task_2\obj\Debug\Practrical_task_2.exe
+S:\work\DoPM\Practrical_task_2\obj\Debug\Practrical_task_2.pdb
