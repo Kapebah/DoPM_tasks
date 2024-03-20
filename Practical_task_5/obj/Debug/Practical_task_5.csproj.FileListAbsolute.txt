@@ -1,0 +1,7 @@
+S:\work\DoPM\Practical_tasks\DoPM_tasks\Practical_task_5\bin\Debug\Practical_task_5.exe.config
+S:\work\DoPM\Practical_tasks\DoPM_tasks\Practical_task_5\bin\Debug\Practical_task_5.exe
+S:\work\DoPM\Practical_tasks\DoPM_tasks\Practical_task_5\bin\Debug\Practical_task_5.pdb
+S:\work\DoPM\Practical_tasks\DoPM_tasks\Practical_task_5\obj\Debug\Practical_task_5.csproj.AssemblyReference.cache
+S:\work\DoPM\Practical_tasks\DoPM_tasks\Practical_task_5\obj\Debug\Practical_task_5.csproj.CoreCompileInputs.cache
+S:\work\DoPM\Practical_tasks\DoPM_tasks\Practical_task_5\obj\Debug\Practical_task_5.exe
+S:\work\DoPM\Practical_tasks\DoPM_tasks\Practical_task_5\obj\Debug\Practical_task_5.pdb
